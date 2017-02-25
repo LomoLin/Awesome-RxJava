@@ -55,11 +55,11 @@ RxJava resources
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
 
 ###  一些原理分析的文章
-* [彻底搞懂 RxJava — 基础篇](http://diordna.sinaapp.com/?p=896)
+* [彻底搞懂 RxJava — 基础篇](http://android.walfud.com/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-rxjava-%E5%9F%BA%E7%A1%80%E7%AF%87/)
 
-* [彻底搞懂 RxJava — 中级篇](http://diordna.sinaapp.com/?p=910)
+* [彻底搞懂 RxJava — 中级篇](http://android.walfud.com/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-rxjava-%E4%B8%AD%E7%BA%A7%E7%AF%87/)
 
-* [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
+* [彻底搞懂 RxJava — 高级篇](http://android.walfud.com/%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82-rxjava-%E9%AB%98%E7%BA%A7%E7%AF%87/)
 
 ## Test
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
